@@ -23,3 +23,7 @@ With a simple dropdown menu, users can select predefined customer support action
 * Install project dependencies with: `pip install -r requirements.txt`
 * Start the server using: `flask run`
 * Navigate to [http://localhost:5000](http://localhost:5000/) in your browser
+
+## Acknowledgements & Thanks
+
+* [GitHub](https://icons8.com/icon/OekWdZr7M4hU/github) icon by [Icons8](https://icons8.com)
