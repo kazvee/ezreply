@@ -1,0 +1,10 @@
+flask.wsgi
+.env
+config.py
+
+*.pyc
+*.pyo
+__pycache__/
+
+venv/
+.venv/
