@@ -1,0 +1,52 @@
+body {
+    background-color: #061320;
+    color: #EB9D00;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #EB9D00;
+    text-align: center;
+}
+
+form {
+    margin: 40px 0;
+    text-align: center;
+}
+
+label {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+select {
+    background-color: #BED8F0;
+    border-radius: 5px;
+    border: 2px solid #EB9D00;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 10px 15px;
+    width: 250px;
+}
+
+h3 {
+    color: #EB9D00;
+    font-size: 1.5rem;
+    margin-top: 40px;
+    text-align: center;
+}
+
+pre {
+    background: #BED8F0;
+    border-radius: 5px;
+    color: #061320;
+    font-size: 1rem;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
