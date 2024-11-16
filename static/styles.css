@@ -50,3 +50,17 @@ pre {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+footer {
+    background-color: #061320;
+    color: #EB9D00;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    text-decoration: none;
+}
