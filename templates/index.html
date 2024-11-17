@@ -32,7 +32,8 @@
 
     {% if selected_action %}
     <h3>Reply:</h3>
-    <pre>{{ replies[selected_action] }}</pre>
+    <pre id="replyBox">{{ replies[selected_action] }}</pre>
+    <button id="copyButton">Copy Reply</button>
     {% endif %}
 
     <footer>
@@ -42,6 +43,8 @@
             </svg>
         </a>
     </footer>
+
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
 
 </body>
 
