@@ -5,7 +5,6 @@
 With a simple dropdown menu, users can select predefined customer support actions, and the corresponding reply is generated instantly. This eliminates the need for repetitive typing and speeds up responses. Replies can be easily copied into emails, forum posts, or chat messages.
 
 ## Features
-
 * **Dropdown Menu:** Quickly select predefined actions for instant replies
 * **Dynamic Reply Generation:** Replies are automatically generated when an action is selected
 * **Modern and Minimal UI:** A clean, user-friendly interface for enhanced usability
@@ -25,5 +24,5 @@ With a simple dropdown menu, users can select predefined customer support action
 * Navigate to [http://localhost:5000](http://localhost:5000/) in your browser
 
 ## Acknowledgements & Thanks
-
 * [GitHub](https://icons8.com/icon/OekWdZr7M4hU/github) icon by [Icons8](https://icons8.com)
+* Favicon by [Favicon.io](https://favicon.io/)
