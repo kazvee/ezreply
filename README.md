@@ -4,6 +4,12 @@
 
 With a simple dropdown menu, users can select predefined customer support actions, and the corresponding reply is generated instantly. This eliminates the need for repetitive typing and speeds up responses. Replies can be easily copied into emails, forum posts, or chat messages.
 
+## Final Product
+
+https://github.com/user-attachments/assets/2751940f-4010-4101-94dd-3a45042cce5e
+
+![ezReply Screenshot](static/readme/ezReply_Screenshot.png)
+
 ## Features
 * **Dropdown Menu:** Quickly select predefined actions for instant replies
 * **Dynamic Reply Generation:** Replies are automatically generated when an action is selected
